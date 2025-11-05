@@ -9,7 +9,7 @@ const PRODUCTS = [
     name: "Classic Brown Teddy",
     price: "599",
     size: "40 cm",
-    img: "/teddy.jpg",
+    img: "teddy.jpg",
 
   },
   {
@@ -17,35 +17,35 @@ const PRODUCTS = [
     name: "Giant Huggable Bear",
     price: "2499",
     size: "120 cm",
-    img: "/teddy2.jpg",
+    img: "teddy2.jpg",
   },
   {
     id: 3,
     name: "Pocket Cute Bear",
     price: "349",
     size: "20 cm",
-    img: "/teddy3.jpg",
+    img: "teddy3.jpg",
   },
   {
     id: 4,
     name: "Valentine Bear with Heart",
     price: "799",
     size: "35 cm",
-    img: "/teddy4.jpg",
+    img: "teddy4.jpg",
   },
   {
     id: 5,
     name: "Angel Ribbon Bear",
     price: "679",
     size: "38 cm",
-    img: "/teddyyy.jpg",
+    img: "teddyyy.jpg",
   },
   {
     id: 6,
     name: "Plush Puppy Buddy",
     price: "499",
     size: "30 cm",
-    img: "/teddy6.jpg",
+    img: "teddy6.jpg",
   },
 ];
 
