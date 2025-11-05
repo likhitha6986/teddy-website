@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: #fffafc;
+  color: #333;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
